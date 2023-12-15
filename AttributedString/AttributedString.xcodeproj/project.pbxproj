@@ -13,7 +13,7 @@
 		4B8651862B2B8A1100DA547E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B8651842B2B8A1100DA547E /* Main.storyboard */; };
 		4B8651882B2B8A1300DA547E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B8651872B2B8A1300DA547E /* Assets.xcassets */; };
 		4B86518B2B2B8A1300DA547E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B8651892B2B8A1300DA547E /* LaunchScreen.storyboard */; };
-		4B8651932B2B97E600DA547E /* SmoochSans-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B8651922B2B97E600DA547E /* SmoochSans-VariableFont_wght.ttf */; };
+		4B8651972B2C34D000DA547E /* Calypso.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B8651962B2C34D000DA547E /* Calypso.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		4B8651872B2B8A1300DA547E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B86518A2B2B8A1300DA547E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B86518C2B2B8A1300DA547E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4B8651922B2B97E600DA547E /* SmoochSans-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SmoochSans-VariableFont_wght.ttf"; path = "../../../../Library/Fonts/SmoochSans-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		4B8651962B2C34D000DA547E /* Calypso.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Calypso.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				4B8651872B2B8A1300DA547E /* Assets.xcassets */,
 				4B8651892B2B8A1300DA547E /* LaunchScreen.storyboard */,
 				4B86518C2B2B8A1300DA547E /* Info.plist */,
-				4B8651922B2B97E600DA547E /* SmoochSans-VariableFont_wght.ttf */,
+				4B8651962B2C34D000DA547E /* Calypso.ttf */,
 			);
 			path = AttributedString;
 			sourceTree = "<group>";
@@ -130,7 +130,7 @@
 			files = (
 				4B86518B2B2B8A1300DA547E /* LaunchScreen.storyboard in Resources */,
 				4B8651882B2B8A1300DA547E /* Assets.xcassets in Resources */,
-				4B8651932B2B97E600DA547E /* SmoochSans-VariableFont_wght.ttf in Resources */,
+				4B8651972B2C34D000DA547E /* Calypso.ttf in Resources */,
 				4B8651862B2B8A1100DA547E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

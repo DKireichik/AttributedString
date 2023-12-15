@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         attributedString.addAttribute(NSAttributedString.Key.foregroundColor, value: UIColor.black, range: NSRange(location: 27, length: 3))
         attributedString.addAttribute(NSAttributedString.Key.foregroundColor, value: UIColor.magenta, range: NSRange(location: 32, length: 5))
         attributedString.addAttribute(NSAttributedString.Key.foregroundColor, value: UIColor.purple, range: NSRange(location: 38, length: 5))
-        attributedString.addAttribute(.font, value: UIFont(name: "SmoochSans-VariableFont_wght", size: 12), range: NSRange(location: 0, length: 5))
+        attributedString.addAttribute(.font, value: UIFont(name: "Calypso", size: 30), range: NSRange(location: 0, length: 43))
         stroke.attributedText = attributedString
         
     }
